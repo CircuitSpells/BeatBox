@@ -1,3 +1,3 @@
 # BeatBox
 
-https://github.com/CircuitSpells/BeatBox/assets/114853372/4061b136-6e76-414d-90b9-4764b6bc5bbc
+https://github.com/CircuitSpells/BeatBox/assets/114853372/65f8fdf7-527b-48b3-a4ae-1217d271ad32
